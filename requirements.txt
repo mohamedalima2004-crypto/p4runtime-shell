@@ -1,0 +1,10 @@
+p4runtime-shell==0.0.6
+p4runtime==1.4.1
+grpcio==1.75.0
+protobuf==3.20.3
+googleapis-common-protos==1.72.0
+jedi==0.17.2
+parso==0.7.1
+ipython==7.31.1
+typing-extensions==4.15.0
+grpcio-tools==1.75.0
